@@ -3,7 +3,7 @@
 [![Can i backup my computer to the cloud](blue.png)](https://github.com/wikieweb/can.i.charge.my.dell.laptop.with.usb-c)
 
 
-Yes" Can you backup your computer to the cloud
+Yes" You can backup your computer to the cloud
 
 There are many ways to back up your computer, which usually fall into local (offline) and cloud (online) backups. Today, we'll show you how to back up your Windows computer to the cloud using three popular cloud storage services, as well as dedicated cloud backup tools.
 
